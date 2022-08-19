@@ -20,7 +20,7 @@
     "build": "grunt build",
     "test": "grunt default"
   },
-  "main": "index.js",
+  "main": "build/index.js",
   "browser": {
     "crypto": false
   },
